@@ -1,6 +1,6 @@
 # Lumina.DIY - AI-Powered Autonomous Workflow Platform
 
-[![Lumina.DIY: Next-Generation AI Development Platform](./public/social_preview_index.jpg)](https://lumina.diy)
+[![Lumina.DIY: Next-Generation AI Development Platform](./public/social_preview_index.jpg)](https://2579d18a.lumina-diy.pages.dev)
 
 Welcome to **Lumina.DIY**, an advanced AI-powered autonomous workflow development platform built upon the foundation of bolt.diy. This platform combines cutting-edge AI capabilities with web technologies to create fully autonomous workflows, wallet integrations, and social media feed automation.
 
@@ -42,6 +42,9 @@ Welcome to **Lumina.DIY**, an advanced AI-powered autonomous workflow developmen
 - **Real-time Collaboration**: Enhanced team development features
 
 ## 📊 Current Status
+
+## 🌐 **LIVE PLATFORM**
+**🚀 Lumina.DIY is now LIVE at: https://2579d18a.lumina-diy.pages.dev**
 
 ### ✅ Currently Implemented (Inherited from bolt.diy)
 - **AI-powered code generation** with multiple LLM providers
